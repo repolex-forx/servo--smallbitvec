@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "servo",
+  "repo": "smallbitvec",
+  "versions": [
+    {
+      "commit": "ad9b17eace931eb8190fa25f7775932ed48d370f",
+      "parsed_at": "2026-11-23T00:25:15.077829+00:00",
+      "tag": "v2.6.1",
+      "filetree": "filetree/ad9b17eace931eb8190fa25f7775932ed48d370f.nq.gz",
+      "blobs": [
+        "blob/56119321b48eef694544da50bf0973e8299eeab8.nq.gz",
+        "blob/a1906c0217a5e0bf1d558a0868cd2194d86bba4b.nq.gz",
+        "blob/16fe87b06e802f094b3fbb0894b137bca2b16ef1.nq.gz",
+        "blob/cb20da01a2187bb7ff2eec46fc2171125e2c477f.nq.gz",
+        "blob/a9d616611de000fbc5e8dd5720c3df0198b80961.nq.gz",
+        "blob/eccd7b4ab85ef538f952b87de4948f2b1e6997d6.nq.gz",
+        "blob/43ac5359dcc616af5b183836ee4e90035f62cc9d.nq.gz",
+        "blob/ceddb9035ba003c50cf7c26cf8bd94546e0048f1.nq.gz",
+        "blob/22b6d843a69302b3a272db0a478d7caf0cb8b723.nq.gz",
+        "blob/dea1a6a4056af45b81a247800ec83de573e64fef.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
