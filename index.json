@@ -1,0 +1,11 @@
+{
+  "org": "servo",
+  "repo": "smallbitvec",
+  "versions": [
+    {
+      "commit": "ad9b17eace931eb8190fa25f7775932ed48d370f",
+      "tag": "v2.6.1",
+      "parsed_at": "2026-11-23T00:32:28.483382+00:00"
+    }
+  ]
+}
